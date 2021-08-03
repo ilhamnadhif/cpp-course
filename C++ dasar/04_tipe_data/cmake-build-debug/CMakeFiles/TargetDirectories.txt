@@ -1,0 +1,3 @@
+/home/ilham/Documents/C++/C++ dasar/04_tipe_data/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilham/Documents/C++/C++ dasar/04_tipe_data/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilham/Documents/C++/C++ dasar/04_tipe_data/cmake-build-debug/CMakeFiles/04_tipe_data.dir

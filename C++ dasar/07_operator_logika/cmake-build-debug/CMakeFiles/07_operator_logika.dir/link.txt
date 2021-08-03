@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/07_operator_logika.dir/main.cpp.o -o 07_operator_logika 

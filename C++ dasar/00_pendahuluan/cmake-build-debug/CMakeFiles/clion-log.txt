@@ -1,0 +1,4 @@
+/snap/clion/162/bin/cmake/linux/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_DEPENDS_USE_COMPILER=FALSE -G "CodeBlocks - Unix Makefiles" "/home/ilham/Documents/C++/C++ dasar/00_pendahuluan"
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /home/ilham/Documents/C++/C++ dasar/00_pendahuluan/cmake-build-debug

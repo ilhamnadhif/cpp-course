@@ -1,0 +1,3 @@
+/home/ilham/Documents/C++/C++ dasar/10_kalkulator/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilham/Documents/C++/C++ dasar/10_kalkulator/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilham/Documents/C++/C++ dasar/10_kalkulator/cmake-build-debug/CMakeFiles/10_kalkulator.dir
