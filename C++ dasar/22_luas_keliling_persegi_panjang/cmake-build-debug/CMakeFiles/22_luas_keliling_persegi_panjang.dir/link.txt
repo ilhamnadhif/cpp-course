@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/22_luas_keliling_persegi_panjang.dir/main.cpp.o -o 22_luas_keliling_persegi_panjang 

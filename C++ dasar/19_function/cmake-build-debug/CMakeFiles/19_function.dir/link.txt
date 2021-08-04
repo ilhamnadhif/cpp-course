@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/19_function.dir/main.cpp.o -o 19_function 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/18_segitiga_sikusiku.dir/main.cpp.o -o 18_segitiga_sikusiku 
