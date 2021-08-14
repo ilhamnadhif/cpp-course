@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/27_function_rekursif.dir/main.cpp.o -o 27_function_rekursif 

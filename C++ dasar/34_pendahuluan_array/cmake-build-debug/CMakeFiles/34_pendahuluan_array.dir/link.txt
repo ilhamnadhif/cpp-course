@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/34_pendahuluan_array.dir/main.cpp.o -o 34_pendahuluan_array 

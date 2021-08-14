@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/35_array_standard_library.dir/main.cpp.o -o 35_array_standard_library 

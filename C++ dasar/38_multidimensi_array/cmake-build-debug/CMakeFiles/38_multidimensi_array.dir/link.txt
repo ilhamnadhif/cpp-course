@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/38_multidimensi_array.dir/main.cpp.o -o 38_multidimensi_array 

@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/33_fungsi_dengan_reference.dir/main.cpp.o -o 33_fungsi_dengan_reference 

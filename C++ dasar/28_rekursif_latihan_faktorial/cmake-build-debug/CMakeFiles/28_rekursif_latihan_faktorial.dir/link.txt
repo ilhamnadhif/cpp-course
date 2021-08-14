@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/28_rekursif_latihan_faktorial.dir/main.cpp.o -o 28_rekursif_latihan_faktorial 

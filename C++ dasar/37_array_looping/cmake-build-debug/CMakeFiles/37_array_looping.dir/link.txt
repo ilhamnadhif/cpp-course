@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/37_array_looping.dir/main.cpp.o -o 37_array_looping 

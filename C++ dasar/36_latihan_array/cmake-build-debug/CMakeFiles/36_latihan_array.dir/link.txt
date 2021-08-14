@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/36_latihan_array.dir/main.cpp.o -o 36_latihan_array 

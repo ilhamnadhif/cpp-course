@@ -1,0 +1,3 @@
+/home/ilham/Documents/C++/C++ dasar/32_fungsi_dengan_pointer/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ilham/Documents/C++/C++ dasar/32_fungsi_dengan_pointer/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/ilham/Documents/C++/C++ dasar/32_fungsi_dengan_pointer/cmake-build-debug/CMakeFiles/32_fungsi_dengan_pointer.dir
